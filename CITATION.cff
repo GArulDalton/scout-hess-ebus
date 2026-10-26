@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "SCOUT: degradation aware reinforcement learning energy management for battery supercapacitor electric buses"
+authors:
+  - family-names: Marisargunam
+    given-names: S.
+    orcid: "https://orcid.org/0009-0008-5157-2048"
+    affiliation: "Saveetha Engineering College, Chennai, India"
+  - family-names: Dalton
+    given-names: G. Arul
+    orcid: "https://orcid.org/0000-0002-5981-7176"
+    affiliation: "Saveetha Engineering College, Chennai, India"
+repository-code: "https://github.com/GArulDalton/scout-hess-ebus"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Degradation Aware Reinforcement Learning for Battery Supercapacitor Energy Management in Electric Buses"
+  authors:
+    - family-names: Marisargunam
+      given-names: S.
+    - family-names: Dalton
+      given-names: G. Arul
+  journal: "Smart Grids and Sustainable Energy"
+  year: 2026
+  status: submitted
